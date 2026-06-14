@@ -1,0 +1,10 @@
+{
+  "ForceGiftCost": 100,
+  "PersuadeBaseChance": 0.60,
+  "PersuadeMaxBonus": 0.20,
+  "PersuadeToLoved": true,
+  "ForceToLoved": false,
+  "EnableSound": true,
+  "SoundEffectName": "trashcan",
+  "ForceSoundEffectName": "slimedead"
+}

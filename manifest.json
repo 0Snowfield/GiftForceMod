@@ -1,0 +1,10 @@
+{
+  "Name": "GiftForceMod",
+  "Author": "Snowfield",
+  "Version": "1.0.0",
+  "Description": "强行让村民接受你的礼物——用嘴炮或金币摆平一切",
+  "UniqueID": "YourName.GiftForceMod",
+  "EntryDll": "GiftForceMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

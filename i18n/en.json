@@ -1,0 +1,9 @@
+{
+  "dialog.first.question": "{{npc}} doesn't seem to like {{item}} that much…",
+  "dialog.first.persuade": "Wait wait! This is actually a great gift, hear me out…",
+  "dialog.first.force": "Then just suck it up. (Costs {{cost}} gold)",
+  "dialog.second.question": "Your smooth talk didn't convince {{npc}}…",
+  "dialog.second.cancel": "Oh wait! I grabbed the wrong thing, let me switch",
+  "dialog.second.force": "Then just suck it up. (Costs {{cost}} gold)",
+  "hud.notEnoughGold": "Not enough gold! Need {{cost}} gold"
+}

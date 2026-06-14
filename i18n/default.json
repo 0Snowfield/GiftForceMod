@@ -1,0 +1,9 @@
+{
+  "dialog.first.question": "你觉得{{npc}}好像不太喜欢这个{{item}}…",
+  "dialog.first.persuade": "慢着慢着！这其实是个好礼物，你听我说…",
+  "dialog.first.force": "那你就受着呗！（花费 {{cost}} 金币）",
+  "dialog.second.question": "你的嘴炮似乎没能说服{{npc}}…",
+  "dialog.second.cancel": "慢着！原来我不小心拿错了，我换一个",
+  "dialog.second.force": "那你就受着呗！（花费 {{cost}} 金币）",
+  "hud.notEnoughGold": "金币不足！需要 {{cost}} 金币"
+}
