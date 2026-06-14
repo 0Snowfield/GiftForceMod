@@ -118,8 +118,8 @@ namespace GiftForceMod
                 // 获取 NPC 对此物品的喜好等级
                 int taste = npc.getGiftTasteForThisItem(item);
 
-                // 最爱(loved, taste=0) → 放行
-                if (taste == 0)
+                // 最爱或喜欢 → 放行
+                if (taste == 0 || taste == 2)
                     return true;
 
                 // 拦截 → 弹出对话框
